@@ -1,6 +1,8 @@
 #!D:\Python27\python.exe
 #-*- coding: utf-8 -*-
 
+#add something
+
 '''
 Telnet远程登录：Windows客户端连接Linux服务器
 TFTP传输文件：Linux客户端连接Windows服务器
